@@ -1,0 +1,22 @@
+.Main {
+    
+
+}
+
+.content {
+
+justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+
+.link1 {
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+
